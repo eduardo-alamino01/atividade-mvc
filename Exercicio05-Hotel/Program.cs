@@ -1,0 +1,1 @@
+var b=WebApplication.CreateBuilder(args); b.Services.AddControllersWithViews(); var app=b.Build(); app.UseHttpsRedirection(); app.UseStaticFiles(); app.UseRouting(); app.MapControllerRoute(name:"default",pattern:"{controller=Hotel}/{action=Index}/{id?}"); app.Run();
