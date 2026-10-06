@@ -1,8 +1,8 @@
 # Atividades ASP.NET Core MVC
 
-Aluno: PREENCHA SEU NOME
+Aluno: Eduardo Nieto Alamino
 
-Turma: PREENCHA SUA TURMA
+Turma: 2ºA
 
 ## Exercícios
 01 Escola
